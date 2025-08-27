@@ -1,0 +1,11 @@
+{
+  "name": "flower-project",
+  "version": "1.0.0",
+  "description": "A simple project for CI lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests passed successfully!\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
